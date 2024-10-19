@@ -34,3 +34,10 @@ Pré-requis pour cette UE : INF 201 (programmation fonctionnelle) - Trouver le r
 * La théorie des automates fait partie des fondements de l'informatique. Dans ce cours nous l'abordons avec les objectifs suivants :
 * Apprendre à analyser des propriétés (correction, terminaison, coût) des algorithmes (en relation avec l'UE INF231).
 * Apprendre à analyser formellement les propriétés d'un langage.
+
+---
+
+### License Information
+
+**PeiP-S3-INF302** work also includes content that is not the property of **Vasileios Filippos Skarleas** and **Rami Aridi** and is subject to copyright and other licenses from their respective owners.
+
