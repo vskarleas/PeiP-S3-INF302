@@ -39,5 +39,5 @@ Pré-requis pour cette UE : INF 201 (programmation fonctionnelle) - Trouver le r
 
 ### License Information
 
-**PeiP-S3-INF302** work also includes content that is not the property of **Vasileios Filippos Skarleas** and **Rami Aridi** and is subject to copyright and other licenses from their respective owners
+**PeiP-S3-INF302** work also includes content that is not the property of **Vasileios Filippos Skarleas** is subject to copyright and other licenses from their respective owners
 
